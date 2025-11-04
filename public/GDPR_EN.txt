@@ -1,0 +1,31 @@
+Your Privacy Rights Under the General Data Protection Regulation (GDPR)
+
+In compliance with the General Data Protection Regulation (GDPR), we inform you about your rights regarding the management of your personal data. These rights are designed to give you control over your personal information and ensure transparency in how your data is processed and stored.
+
+Right of Access:
+You have the right to request access to the personal data we hold about you. This includes information on how and why we process your data.
+
+Right to Rectification:
+If you find that your personal data is inaccurate or incomplete, you have the right to request its correction or update.
+
+Right to Erasure (Right to be Forgotten):
+You can request the deletion of your personal data at any time, and we will take necessary steps to permanently erase all information related to you.
+
+Right to Data Portability:
+You have the right to receive the personal data you have provided to us in a structured, commonly used, and machine-readable format, and to transfer that data to another data controller.
+
+Right to Restriction of Processing:
+You can request that the processing of your personal data be restricted in certain circumstances, such as when you contest the accuracy of the data or when the processing is unlawful.
+
+Right to Object to Processing:
+You have the right to object to the processing of your personal data at any time, for reasons related to your particular situation.
+
+Right to Withdraw Consent:
+If the processing of your personal data is based on your consent, you have the right to withdraw it at any time, without affecting the legality of the processing based on consent before its withdrawal.
+
+Right to Lodge a Complaint:
+If you believe your rights under the GDPR have been violated, you have the right to lodge a complaint with a competent data protection authority.
+
+To exercise any of these rights or for more information on how we manage your personal data, you can contact us at [insert email address or contact form].
+
+Your privacy is important to us, and we are committed to protecting and managing your personal data responsibly.

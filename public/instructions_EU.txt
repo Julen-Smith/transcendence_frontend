@@ -1,0 +1,21 @@
+Pong-aren jarraibideak
+
+
+Pong bi dimentsiotako kirol-joko bat da, mahai-tenisa simulatzen duena. Jokoan, jokalari bakoitzak pala bat kontrolatzen du, pantailaren ezkerraldean edo eskuinaldean dagoena,
+eta bertikalki mugitzen du. Jokalariek palak erabiltzen dituzte pilota zelaiaren beste aldera jaurtitzeko.
+
+Jokoaren helburua aurkariaren aurretik bost puntura iristea da. Jokalari batek puntu bat irabazten du aurkaria pilota itzultzeko gai ez denean.
+
+Pilota pantailaren erdian hasten da eta alde batera zerbitzatzen da.
+
+Kontrolak:
+
+1 jokalaria (ezkerreko paleta):
+Mugitu gora: "W" tekla.
+Mugitu behean: "S" tekla.
+
+2 Jokalaria (eskuineko paleta):
+Mugitu gora: "Gezia gora" tekla.
+Mugitu behean: "Gezia behera" tekla.
+
+Ondo pasatu!

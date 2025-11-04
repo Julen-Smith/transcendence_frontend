@@ -1,0 +1,24 @@
+Pong Game Instructions
+
+
+Pong is a two-dimensional sports game that simulates table tennis. 
+
+The player controls a paddle located on the left or right side of the screen, by moving it vertically. 
+
+Players use the paddles to hit a ball back and forth.
+
+The goal of the game is to reach five points before the opponent. Points are earned when your opponent fails to return the ball.
+
+The ball starts in the center of the screen and is served to one side.
+
+Controls:
+
+Player 1 (Left Paddle):                      
+Move up: Press the "W" key.                  
+Move down: Press the "S" key.                
+
+Player 2 (Right Paddle):
+Move up: Press the "Up Arrow" key.
+Move down: Press the "Down Arrow" key.
+
+Have fun!

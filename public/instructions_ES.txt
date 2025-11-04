@@ -1,0 +1,21 @@
+Instrucciones del Pong
+
+
+Pong es un juego de deportes en dos dimensiones que simula un tenis de mesa. En el juego cada jugador controla una pala, situada en el lado izquierdo o derecho de la pantalla,
+moviéndola verticalmente. Los jugadores usan las palas para lanzar la pelota al lado opuesto del campo.
+
+El objetivo del juego es llegar a cinco puntos antes que el oponente. Un jugador gana un punto cuando su oponente no es capaz de devolver la pelota.
+
+La pelota comienza en el centro de la pantalla y se sirve hacia un lado.
+
+Mandos:
+
+Jugador 1 (paleta izquierda):
+Mover arriba: tecla "W".
+Mover abajo: tecla "S".
+
+Jugador 2 (paleta derecha):
+Mover arriba: tecla "Flecha arriba".
+Mover abajo: la tecla "Flecha abajo".
+
+¡Que te diviertas!
